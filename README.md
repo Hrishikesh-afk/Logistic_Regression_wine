@@ -1,3 +1,4 @@
+'''text
 Accuracy Score: 1.0
 Confusion Matrix:
  [[14  0  0]
@@ -13,3 +14,4 @@ Classification Report:
     accuracy                           1.00        36
    macro avg       1.00      1.00      1.00        36
 weighted avg       1.00      1.00      1.00        36
+'''
